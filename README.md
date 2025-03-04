@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Personal Introduction</title>
     <style>
-        /* Replace 'yourcolor' with the colors you choose from colormind.io */
+        
         body {
-            background-color: #f0f0f0; /* Example background color */
+            background-color: #f36b1a; 
             font-family: Arial, sans-serif;
         }
 
         h1 {
-            color: #333333; /* Example color for heading */
+            color: #ebb16c; 
         }
 
         p {
-            color: #555555; /* Example color for paragraph */
+            color: #606660; 
         }
     </style>
 </head>
